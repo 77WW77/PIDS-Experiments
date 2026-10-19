@@ -1,0 +1,13 @@
+# 虚拟环境与缓存
+.venv/
+__pycache__/
+*.pyc
+
+# 学习报告（不上传）
+00_reports/
+
+# Kellect 工具与实验日志（不上传）
+01_kellect_logs/
+
+# 实验工作目录副本（run_collect.ps1 自动生成）
+02_experiments/exp*_work/

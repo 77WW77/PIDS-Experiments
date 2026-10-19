@@ -1,0 +1,2 @@
+epochs=5 hidden=32 split=0.6 negs=5 seed=0
+AUC=0.6369

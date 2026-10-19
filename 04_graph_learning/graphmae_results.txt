@@ -1,0 +1,5 @@
+mask_ratio=0.75 epochs=200 probe_epochs=200 lr=0.01 hidden=32
+seed 0: loss 9533.8359->0.6831  acc 0.9713  acc_seen 0.9819
+seed 1: loss 157840.9688->0.6953  acc 0.9713  acc_seen 0.9819
+seed 2: loss 83629.9609->0.5098  acc 0.9785  acc_seen 0.9891
+seed 3: loss 197000.8438->0.5205  acc 0.9785  acc_seen 0.9891

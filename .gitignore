@@ -11,3 +11,6 @@ __pycache__/
 
 # 实验工作目录副本（run_collect.ps1 自动生成）
 02_experiments/exp*_work/
+
+# MAGIC 完整源码工作目录（重建本体，单独目录不上传；适配部分在 05_magic_code/MAGIC_kellect/）
+05_magic_code/MAGIC/
